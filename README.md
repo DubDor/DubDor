@@ -6,8 +6,10 @@ Im a Application Support Engineer with aspirations of becoming a Database Engine
 I have 5 years of experience working with databases, data and SQL scripts, views and functions. Mostly worked with applications written in either C# or Delphi.
 
  <p align="left">
-         <a href="https://linktr.ee/dubdor">
+       <a href="https://linktr.ee/dubdor">
          <img alt="LinkTree" title="Check Out My LinkTree" src="https://ugc.production.linktr.ee/CyMzuEHnSjyd5GwGc62z_0Wufg2AAMBW8wwil?io=true&size=avatar-v1" width="40px"></a> 
+      <a href="https://www.linkedin.com/in/adam-henshall-jones-69947a101/">
+         <img alt="LinkedIn" title="Lets Connect On LiknedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px"></a> 
       <a href="https://www.youtube.com/@AdamsChinaDiary">
          <img alt="YouTube" title="Subscribe to my YouTube Channel" src="https://cdn-icons-png.flaticon.com/128/174/174883.png" width="40px"></a> 
       <a href="https://www.instagram.com/dubledor/">

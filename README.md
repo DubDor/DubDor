@@ -52,3 +52,4 @@ I have 5 years of experience working with databases, data and SQL scripts, views
 <img align="left" alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
 <img align="left" alt="Switch" src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
 
+---

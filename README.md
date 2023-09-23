@@ -1,4 +1,4 @@
-# ☢ Adam Henshall-Jones 🚀
+# ☢ Adam Henshall-Jones 🚀 <a href="https://www.youtube.com/watch?v=bl5TUw7sUBs" target="_blank"><img src="https://i1.sndcdn.com/artworks-000189490798-zd9ruz-t500x500.jpg" alt="Picard & Data" width="50" height="50" border="10" /></a>
 
 **`Application Support Engineer | DBA | Java Dev In Training`**
 
@@ -55,3 +55,4 @@ I have 5 years of experience working with databases, data and SQL scripts, views
 <img alt="Switch" src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
 
 ---
+

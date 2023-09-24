@@ -20,9 +20,9 @@ I have 5 years of experience working with databases, data and SQL scripts, views
 
 ---
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dubdor&show_icons=true&theme=merko" />  
+<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=dubdor&show_icons=true&theme=merko" />  
 
-<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubdor&layout=compact" />
+<img  width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubdor&hide_progress=true" />
 
 ---
 

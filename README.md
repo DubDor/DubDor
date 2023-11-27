@@ -1,9 +1,9 @@
 # ☢ Adam Henshall-Jones 🚀 <a href="https://www.youtube.com/watch?v=bl5TUw7sUBs" target="_blank"><img src="https://i1.sndcdn.com/artworks-000189490798-zd9ruz-t500x500.jpg" alt="Picard & Data" width="50" height="50" border="10" /></a>
 
-**`Application Support Engineer | DBA | Java Dev In Training`**
+**`Application Support Engineer | DBA | Backend Dev In Training`**
 
-Im a Application Support Engineer with aspirations of becoming a Database Engineer or Java Developer. My skillset is mostly SQL, HTML, CSS and very basic JS. For the past few years i have been exploring different languages to see which one fits best. Currenly exploring Java and Python.
-I have 5 years of experience working with databases, data and SQL scripts, views and functions. Mostly worked with applications written in either C# or Delphi.
+Im a Application Support Engineer with aspirations of becoming a Database Engineer or Backend Developer. My skillset is mostly SQL, HTML, CSS, JS fundamentals, Kotlin, Python. For the past few years i have been exploring different languages to see which one suits. I am currenly exploring Node.js, Python and Java.
+I have 5 years of experience working with relational databases, data and SQL scripts, views and functions. Mostly worked with applications written in C# and Delphi.
 
  <p align="left">
        <a href="https://linktr.ee/dubdor">

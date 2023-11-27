@@ -7,7 +7,7 @@ I have 5 years of experience working with relational databases, data and SQL scr
 
  <p align="left">
        <a href="https://linktr.ee/dubdor">
-         <img alt="LinkTree" title="Check Out My LinkTree" src="https://ugc.production.linktr.ee/CyMzuEHnSjyd5GwGc62z_0Wufg2AAMBW8wwil?io=true&size=avatar-v1" width="40px"></a> 
+         <img alt="LinkTree" title="Check Out My LinkTree" src="https://logowik.com/content/uploads/images/linktree-new-2022-favicon8503.logowik.com.webp" width="40px"></a> 
       <a href="https://www.linkedin.com/in/adam-henshall-jones-69947a101/">
          <img alt="LinkedIn" title="Lets Connect On LiknedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px"></a> 
       <a href="https://www.youtube.com/@AdamsChinaDiary">

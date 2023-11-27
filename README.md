@@ -7,15 +7,15 @@ I have 5 years of experience working with relational databases, data and SQL scr
 
  <p align="left">
        <a href="https://linktr.ee/dubdor">
-         <img alt="LinkTree" title="Check Out My LinkTree" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" width="35px"></a> 
+         <img alt="LinkTree" title="Check Out My LinkTree" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" width="32px"></a> 
       <a href="https://www.linkedin.com/in/adam-henshall-jones-69947a101/">
-         <img alt="LinkedIn" title="Lets Connect On LiknedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px"></a> 
+         <img alt="LinkedIn" title="Lets Connect On LiknedIn" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" width="40px"></a> 
       <a href="https://www.youtube.com/@AdamsChinaDiary">
-         <img alt="YouTube" title="Subscribe to my YouTube Channel" src="https://cdn-icons-png.flaticon.com/128/174/174883.png" width="40px"></a> 
+         <img alt="YouTube" title="Subscribe to my YouTube Channel" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-color-icon.png" width="40px"></a> 
       <a href="https://www.instagram.com/dubledor/">
-         <img alt="Instagram" title="Follow Me On Instagram" src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png" width="40px"></a> 
+         <img alt="Instagram" title="Follow Me On Instagram" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" width="40px"></a> 
       <a href="https://www.threads.net/@dubledor">
-         <img alt="Threads" title="Follow Me On Threads" src="https://seeklogo.com/images/T/threads-logo-9F3F8228AC-seeklogo.com.png?v=638243212870000000" width="40px"></a> 
+         <img alt="Threads" title="Follow Me On Threads" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/threads-app-icon.png" width="45px"></a> 
    </p>
 
 ---
